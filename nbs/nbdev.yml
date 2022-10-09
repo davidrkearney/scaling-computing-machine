@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "scaling-computing-machine"
+  site-url: "https://davidrkearney.github.io/scaling-computing-machine"
+  description: "test"
+  repo-branch: main
+  repo-url: "https://github.com/davidrkearney/scaling-computing-machine"
